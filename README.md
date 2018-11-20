@@ -1,4 +1,4 @@
-# Proyecto Arduino con LCD y Java.
+# Proyecto Brazo Robotico de 5 Ejes.
 >Creado por: Diego Salvador Suárez Quijas
               Angely Jazmin Martinez Ramirez
 >Contacto: d.salvador0604@gmail.com
