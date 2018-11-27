@@ -1,0 +1,5 @@
+Instrucciones instalacion 
+en wondowns:
+copiar  RXTXcomm.jar en \jre\lib\ext    ubicado en el  jdk
+
+rxtxSerial.dll y rxtxParallet.dll copiar en  \jre\bin
