@@ -49,7 +49,7 @@ Librerias: para la comunicacion Arduino con Java
 
     >RXTXcomm
     >PanamaHitek_Arduino-3.0.0
-#Còdigo en Arduino.
+## Còdigo en Arduino.
 
 /*
 El propósito de esta práctica es desarrollar paso a paso un proyecto para controlar y programar un Brazo Robot, 
